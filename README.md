@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=150&section=header&text=KepalaLuweng&fontSize=38&fontColor=00F0FF&animation=twinkling&desc=Android%20Kernel%20Developer%20%7C%20Low-Level%20Systems&descSize=15&descAlignY=70&descAlign=50" width="100%" />
-
   <a href="https://github.com/KepalaLuweng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=550&lines=Android+Kernel+%26+Low-Level+Systems+Engineer;Creator+of+LuwengKernel+%E2%80%A2+Linux+4.14+ARM64;Fine-Tuning+Silicon+for+Peak+Performance;LuwengSense+Reborn+%E2%80%A2+100%25+Systemless+Engine" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=00F0FF&background=00000000&center=true&vCenter=true&width=650&lines=Android+Kernel+%26+Low-Level+Systems+Engineer;Creator+of+LuwengKernel+Reborn+(ARM64+Linux+Kernel);Developer+of+LuwengSense+Reborn+(Systemless+Engine);Creator+of+LuwengArcade+(Android+Applications);Developer+of+L-Blocker+(System+DNS+%26+Threat+Shield);Founder+of+LuwengStudios+Systems+Ecosystem">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=0969DA&background=00000000&center=true&vCenter=true&width=650&lines=Android+Kernel+%26+Low-Level+Systems+Engineer;Creator+of+LuwengKernel+Reborn+(ARM64+Linux+Kernel);Developer+of+LuwengSense+Reborn+(Systemless+Engine);Creator+of+LuwengArcade+(Android+Applications);Developer+of+L-Blocker+(System+DNS+%26+Threat+Shield);Founder+of+LuwengStudios+Systems+Ecosystem">
+      <img alt="KepalaLuweng Dynamic Terminal Headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=0969DA&background=00000000&center=true&vCenter=true&width=650&lines=Android+Kernel+%26+Low-Level+Systems+Engineer;Creator+of+LuwengKernel+Reborn+(ARM64+Linux+Kernel);Developer+of+LuwengSense+Reborn+(Systemless+Engine);Creator+of+LuwengArcade+(Android+Applications);Developer+of+L-Blocker+(System+DNS+%26+Threat+Shield);Founder+of+LuwengStudios+Systems+Ecosystem">
+    </picture>
   </a>
 </div>
+
 <div align="center">
   <img src="assets/developer_terminal.svg" width="100%" alt="KepalaLuweng Developer Profile Struct" />
 </div>
@@ -29,7 +32,9 @@
 | :--- | :--- | :--- |
 | **[LuwengKernel](https://github.com/KepalaLuweng/LuwengKernel)** | Custom high-performance Linux kernel for Android ARM64 platforms. Built with Proton Clang and ThinLTO, featuring microsecond thread scheduling, custom governor parameters, and native SuSFS root cloaking. | C, ARM64 Assembly, Makefile |
 | **[LuwengSense](https://github.com/KepalaLuweng/LuwengSense)** | 100% native systemless hardware optimization engine and WebUI dashboard for Magisk, KernelSU, ReSukiSU, and APatch. Dynamically manages power profiles, memory swappiness, and network buffers. | POSIX Shell, JavaScript, CSS |
+| **[LuwengArcade](https://github.com/KepalaLuweng)** | Specialized Android gaming optimizations, tools, and interactive utilities ecosystem. | Java, Kotlin, Shell |
 | **[L-Blocker](https://github.com/KepalaLuweng/L-Blocker)** | Lightweight Android DNS and host protection utility for system-level domain filtering. | Shell, Android System |
+| **[LuwengStudios](https://github.com/KepalaLuweng)** | Independent systems software & Android application engineering studio. | Systems Architecture |
 
 ---
 
