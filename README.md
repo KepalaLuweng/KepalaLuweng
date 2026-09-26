@@ -36,7 +36,7 @@
 | :--- | :--- | :--- |
 | **[LuwengKernel](https://github.com/KepalaLuweng/Luweng-Releases#-luwengkernel-reborn)** | Custom high-performance Linux kernel for Android ARM64 platforms. Built with Proton Clang and ThinLTO, featuring microsecond thread scheduling, custom governor parameters, and native SuSFS root cloaking. | C, ARM64 Assembly, Makefile |
 | **[LuwengSense](https://github.com/KepalaLuweng/Luweng-Releases#-luwengsense-reborn)** | 100% native systemless hardware optimization engine and WebUI dashboard for Magisk, KernelSU, ReSukiSU, and APatch. Dynamically manages power profiles, memory swappiness, and network buffers. | POSIX Shell, JavaScript, CSS |
-| **[LuwengArcade](https://github.com/KepalaLuweng/Luweng-Releases)** | Specialized Android gaming optimizations, tools, and interactive utilities ecosystem. | Java, Kotlin, Shell |
+| **[LuwengArcade](https://github.com/KepalaLuweng/Luweng-Releases#️-luwengarcade)** | Specialized Android gaming optimizations, tools, and interactive utilities ecosystem. | Java, Kotlin, Shell |
 | **[L-Blocker](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker)** | Lightweight Android DNS and host protection utility for system-level domain filtering. | Shell, Android System |
 | **[LuwengStudios](https://github.com/KepalaLuweng)** | Independent systems software & Android application engineering studio. | Systems Architecture |
 
