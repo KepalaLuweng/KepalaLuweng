@@ -5,29 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=550&lines=Android+Kernel+%26+Low-Level+Systems+Engineer;Creator+of+LuwengKernel+%E2%80%A2+Linux+4.14+ARM64;Fine-Tuning+Silicon+for+Peak+Performance;LuwengSense+Reborn+%E2%80%A2+100%25+Systemless+Engine" alt="Typing SVG" />
   </a>
 </div>
-
-```c
-typedef struct {
-    const char *developer;
-    const char *role;
-    const char *architecture;
-    const char *toolchain;
-    const char *subsystems[4];
-} profile_t;
-
-static const profile_t engineer = {
-    .developer = "KepalaLuweng",
-    .role = "Kernel & Systems Software Developer",
-    .architecture = "aarch64",
-    .toolchain = "Clang / LLD / ThinLTO",
-    .subsystems = {
-        "Process & Scheduler Optimization",
-        "VFS & Storage Queue Discipline",
-        "Kernel-Space Cloaking (SuSFS / KernelSU)",
-        "Network Queue & TCP Congestion Control"
-    }
-};
-```
+<div align="center">
+  <img src="assets/developer_terminal.svg" width="100%" alt="KepalaLuweng Developer Profile Struct" />
+</div>
 
 ---
 
